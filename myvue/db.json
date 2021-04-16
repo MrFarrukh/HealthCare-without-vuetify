@@ -1,0 +1,67 @@
+{
+  "doctors": [
+    {
+      "name": "Kumar Sohib",
+      "mail": "kumar@mail.ru",
+      "spec": "tramvatolog",
+      "dep": "tramvatology",
+      "date": [
+        "Du",
+        "Chor",
+        "Juma"
+      ],
+      "id": 2
+    },
+    {
+      "name": "asdasdasd",
+      "mail": "sadasd@gmail.com",
+      "spec": "asdad",
+      "dep": "asdasda",
+      "date": [
+        "Du",
+        "Se",
+        "Chor",
+        "Pay"
+      ],
+      "id": 3
+    }
+  ],
+  "bemors": [
+    {
+      "name": "asdasdasd",
+      "mail": "sd",
+      "phone": "asda",
+      "img": "asd",
+      "wDoc": "dsd",
+      "why": "asd",
+      "id": 2
+    },
+    {
+      "name": "asdasd",
+      "mail": "aasdasd@gamil.com",
+      "phone": "a44574751",
+      "img": "",
+      "wDoc": "Kumar Sohib",
+      "why": "sadasd",
+      "id": 3
+    },
+    {
+      "name": "aaaa",
+      "mail": "sdfsdfsdfsdf@mail.ru",
+      "phone": "65464651",
+      "img": "",
+      "wDoc": "Kumar Sohib",
+      "why": "oyogi",
+      "id": 4
+    },
+    {
+      "name": "asd",
+      "mail": "ads",
+      "phone": "asd",
+      "img": "ads",
+      "wDoc": "Kumar Sohib",
+      "why": "asdasd",
+      "id": 5
+    }
+  ]
+}
